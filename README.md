@@ -1,6 +1,6 @@
 # makemore: Character-Level Language Model (Bigram + MLP)
 
-This project is a simplified reimplementation of **Andrej Karpathy’s “makemore”**, which builds a **character-level language model** from scratch. The goal is to understand how modern neural language models, such as GPT, are built up step-by-step — starting from simple statistical models to small neural networks.
+This project is a simplified reimplementation of **Andrej Karpathy’s “makemore”**, which builds a **character-level language model** from scratch. The goal is to understand how modern neural language models, such as GPT, are built up step-by-step, starting from simple statistical models to small neural networks.
 
 ---
 
@@ -41,4 +41,3 @@ This project is an educational deep dive into how neural text generators evolve 
 
 ---
 
-*Inspired by Andrej Karpathy’s “makemore” series — implemented for learning and experimentation.*
